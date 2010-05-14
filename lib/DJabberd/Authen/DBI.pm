@@ -9,7 +9,7 @@ use DJabberd::Log;
 our $logger = DJabberd::Log->get_logger;
 use DBI;
 
-our $VERSION = '0.1';
+our $VERSION = '0.2';
 
 sub log {
     $logger;
